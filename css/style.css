@@ -345,10 +345,10 @@
     width: 50px;
   }
   
-  .nav_bar_bottom .sx .box_info {
-    /* margin: 0 40px 0 10px; */
+  /*.nav_bar_bottom .sx .box_info {
+     margin: 0 40px 0 10px; 
   }
-  
+  */
   .nav_bar_bottom .sx .box_info a {
     display: block;
   }
