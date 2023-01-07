@@ -37,17 +37,20 @@ nav ul li{
     font-size: 1.3rem;
 }
 
+
 .container{
     min-height: 20vh;
     background-color: black;
     color: white;
    font-family: 'Varela Round', sans-serif;
-   display: flex;
+    display: flex;
    /*margin: 23px auto;*/
    width: 100%;
    border-radius: 12px;
-   padding: 34px;
-   background: url('bug.jpg');
+   padding: 34px; 
+   background-image:url('bg.gif');
+   background-repeat:no-repeat;
+   background-size: 100%;
 }
 
 .bottom{
