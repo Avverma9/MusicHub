@@ -10,11 +10,11 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Teri Hogaiyan 2 - Vishal Mishra", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Sabaat OST - Sabaat", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Tera yaar Hoon Mai - Arijit SIngh", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Pika Pika Chu - Pikchu By - Prachi Sharma", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Pika Pika Chu - Pikchu Song", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Udaariyaan - Satinder Sartaaj", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Sabaat OST - Sabaat", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Teri Hogaiyan 2 - Vishal Mishra", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Heer Ranjha - Rito Riba", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Calm Down - English Song", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Distance Love - Zehr Vibe,Grewal", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
