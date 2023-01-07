@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to MusicHub");
 
 // Initialize the Variables
 let songIndex = 0;
